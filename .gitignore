@@ -1,0 +1,4 @@
+CAMoutputs/
+*.b#?
+*.s#?
+.DS_Store
