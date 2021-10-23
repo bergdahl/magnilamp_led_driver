@@ -1,6 +1,7 @@
 # magnilamp_led_driver
 
-This is a modification of the _VTLLAMP1W_ LED magnifying glass lamp - https://www.velleman.eu/products/view/?id=380108
+This is a modification of the Velleman _VTLLAMP1W_ 6W LEDmagnifying glass lamp - https://www.velleman.eu/products/view/?id=380108. 
+The modification should also be possible with the 10W successor _WTLLAMP1WN_. 
 
 > Please start this project by cutting off the mains plug so you can't accidently plug it into mains again!
 
