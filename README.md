@@ -10,6 +10,8 @@ Gerber files for the PCB's can be found in the Gerber folder, design files for E
 
 # LED driver board
 
+![LED driver board schematic](images/schematic1.png)
+
 ![LED driver board](images/IMG_1993.jpeg)
 
 The LED driver is based on the XLSEMI XL6013 Boost LED driver. 
@@ -18,7 +20,9 @@ The LED driver is based on the XLSEMI XL6013 Boost LED driver.
 
 The LED boards are designed to be drop-in replacement of the orginal LED boards.
 
-![LED driver board](images/IMG_2001.jpeg)
+![LED board schematic](images/schematic2.png)
+
+![LED board](images/IMG_2001.jpeg)
 
 # Mounting hardware
 
